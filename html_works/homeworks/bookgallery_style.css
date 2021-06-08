@@ -1,0 +1,40 @@
+.row1{
+    width: 1000px;
+    height: 500px;
+    background-color:white;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.col{
+    width: 450px;
+    height: 500px;
+    border: 1px solid black;
+    
+    
+}
+.col1{
+    background-color:white;
+    flex: 1;
+}
+.col2{
+    background-color:white;
+}
+.col3{
+    background-color:white;
+}
+
+.nav{
+    background-color:lightgray ;
+    text-decoration:solid black;
+    color: black;
+}
+img{
+    width: 330px;
+    height: 300px;
+}
+a:hover{
+    background-color:rgb(38, 151, 167);
+    color:black;
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+body{
+    background-color: black;
+}
+.main-header{
+    font-family: 'Limelight', cursive;
+    color: rgb(245, 229, 210);
+    text-align: center;
+    
+}
+.state{
+    border: 1px solid black;
+    color :white ;
+    background-color: coral;
+    width: 420px;
+    height: 300px;
+    text-align: center;
+    float: left;
+}
+.img1
+{
+    border: 1px solid red;
+    
+}
+.img2
+{
+    border: 1px solid red;
+    
+}
+.img3
+{
+    border: 1px solid red;
+    
+}
+.terminal{ 
+    border: 1px solid blue;
+    background-color:blue;
+
+}
+.life{
+
+     border:1px solid red;
+    background-color:red;
+    
+    }
+.musize{
+
+        border:1px solid blue;
+       background-color: blue;
+    }
+h1{
+        color: #f58442;
+        text-align: center;
+        color: white;
+    }    
+.row-2{
+    width:100%
+}
+.cols
+{
+    float: left;
+    width:24%;
+    
+}

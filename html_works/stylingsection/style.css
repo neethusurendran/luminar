@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+.main-header{
+    color: rgb(245, 229, 210);
+    text-align: center;
+    text-decoration: underline;
+}
+.state{
+    border: 1px solid black;
+    color:brown;
+    background-color: coral;
+    width:380px;
+    height: 350px;
+    text-align: center;
+    float: left;
+}
+
+.tvm{
+    border: 1px solid white;
+    background-color: pink;
+
+}
+.kot{
+
+     border: 1px solid white;
+    background-color: green;
+    
+    }
+    .knr{
+
+        border: 1px solid white;
+       background-color: blue;
+       
+       }
+       .plk{
+
+        border: 1px solid white;
+       background-color: darkgray;
+       
+       }
+       .trs{
+
+        border: 1px solid white;
+       background-color: darkmagenta;
+       
+       }
+       h1{
+           color: #f58442;
+           text-align: center;
+           color: white;
+       }
+    #state{
+        color: chartreuse;
+       }
+     #place{
+         color: crimson;
+     }  
+     .section1{
+         color:crimson;
+         text-align: center;
+     }

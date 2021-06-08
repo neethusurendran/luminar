@@ -1,0 +1,35 @@
+body{
+    height:200 ;
+}
+.parent{
+    width: 500px;
+    height: 200px;
+    background-color: red;
+    border: 1px solid black;
+    position: relative;
+    margin-top: 10px;
+
+}
+.child1,.child2,.child3{
+    width: 100px;
+    height: 90px;
+    border: 1px solid black;
+}
+.child1{
+    background-color: rosybrown;
+   
+}
+.child2{
+    background-color: royalblue;
+    position: absolute;
+    top: 0;
+    left:110px;
+
+}
+.child3{
+background-color: skyblue;
+position: absolute;
+top: 0;
+left:220px;
+position: fixed;
+}
